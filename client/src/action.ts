@@ -49,7 +49,7 @@ export default async function validateAndSubmitMeasurements(
         },
         {
           type: "rr",
-          value: Number(formData.get("rr")) + 999,
+          value: Number(formData.get("rr")), // + 999,
         },
       ],
     }),

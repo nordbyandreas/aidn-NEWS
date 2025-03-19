@@ -42,3 +42,4 @@ c:\Users\nordb\dev\aidn-NEWS\Api\obj\Debug\net9.0\refint\Api.dll
 c:\Users\nordb\dev\aidn-NEWS\Api\obj\Debug\net9.0\Api.pdb
 c:\Users\nordb\dev\aidn-NEWS\Api\obj\Debug\net9.0\Api.genruntimeconfig.cache
 c:\Users\nordb\dev\aidn-NEWS\Api\obj\Debug\net9.0\ref\Api.dll
+C:\Users\nordb\dev\aidn-NEWS\Api\obj\Debug\net9.0\Api.sourcelink.json
